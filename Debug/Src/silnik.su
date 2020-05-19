@@ -1,0 +1,5 @@
+silnik.c:28:6:Kierunek_Silnika	8	static
+silnik.c:51:6:Licznik_Impulsow	24	static
+silnik.c:153:6:Obliczanie_Predkosci_Akt	0	static
+silnik.c:165:6:Regulator_PID	16	static
+silnik.c:9:6:HAL_TIM_PeriodElapsedCallback	8	static
