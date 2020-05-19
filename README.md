@@ -9,3 +9,6 @@ Napisany program zawiera algorytm regulatora PID służący do osiągania zadane
 <img width="509" alt="ROBOT" src="https://user-images.githubusercontent.com/62465226/82304467-acc95b00-99bc-11ea-86e4-deb19443f3e7.png">
 
 <img width="693" alt="Robot2" src="https://user-images.githubusercontent.com/62465226/82304277-670c9280-99bc-11ea-84b9-daf13b3d3420.png">
+
+### Działanie algorytmu regulatora PID na zadaną wartość skokową 
+<img width="683" alt="PID" src="https://user-images.githubusercontent.com/62465226/82304879-31b47480-99bd-11ea-96af-f0bb539bae26.png">
